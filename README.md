@@ -1,6 +1,6 @@
 # catppuccinify
 
-check out https://laggy-tux.github.io/ for the *how-to*
+
 
 screenshots
 
